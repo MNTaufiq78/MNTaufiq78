@@ -1,3 +1,7 @@
+<p  align="center">
+<img alt="banner" width="500" src="ezgif.com-animated-gif-maker.gif">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammed Naseeruddin Taufiq</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
